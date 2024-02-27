@@ -13,4 +13,4 @@ house_number = input("Enter your house number: ")
 street_name = input("Enter your street_name: ")
 
 # Print out all the details
-print ("This is " + name + ". He is " + age + " years old and lives at house number " + house_number + " on " + street_name + ".")
+print(f"This is {name}. He is {age} years old and lives at house number {house_number} on {street_name}.")
